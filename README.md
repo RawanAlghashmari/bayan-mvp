@@ -155,6 +155,6 @@ This is a proof of concept, not a clinical product. Current limitations:
 
 The pictogram images in `public/pictograms/` are third-party assets. Before any public or commercial use, verify their license and add the attribution their source requires.
 
-## Author
+## Team
 
-**Rawan Alghashmari**, [GitHub](https://github.com/RawanAlghashmari)
+Built by **Team BAYAN** · فريق بيان
