@@ -153,7 +153,9 @@ This is a proof of concept, not a clinical product. Current limitations:
 
 ## Pictogram attribution
 
-The pictogram images in `public/pictograms/` are third-party assets. Before any public or commercial use, verify their license and add the attribution their source requires.
+The pictograms in `public/pictograms/` are **USP Pictograms, © The United States Pharmacopeial Convention (USP)**. They are used unmodified, for non-commercial demonstration purposes, under USP's free license terms. All rights to the pictograms remain with USP. See [USP Pictograms](https://www.usp.org/health-quality-safety/usp-pictograms) for license terms.
+
+The pictograms supplement, and never replace, the written instructions on each label.
 
 ## Team
 
