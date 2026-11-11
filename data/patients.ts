@@ -1,3 +1,4 @@
+// ⚠️ All patient data in this file is fictional and for MVP demonstration only.
 import type { Patient } from "@/types/patient";
 
 export const patients: Patient[] = [
